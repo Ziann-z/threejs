@@ -1,0 +1,1 @@
+Letakkan file model 3D berformat GLB di folder ini dan beri nama model.glb.
